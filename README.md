@@ -24,7 +24,7 @@ A small, readable SMM panel bot in one Python file. Check your balance, search 5
 /services instagram followers         #24301 Followers · Max 100K - $1.89/1000 ...
 /order 24301 https://instagram.com/you 1000
                                       Order placed: #23501
-/status 23501                         #23501: In progress · Remains: 420
+/status 23501                         #23501: In progress, Remains: 420
 /refill 23501                         Refill requested: #812
 ```
 
